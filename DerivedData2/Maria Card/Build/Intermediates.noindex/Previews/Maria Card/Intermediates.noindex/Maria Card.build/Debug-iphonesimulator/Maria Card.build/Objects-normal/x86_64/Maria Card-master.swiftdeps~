@@ -1,0 +1,8 @@
+version: "Apple Swift version 5.2.4 (swiftlang-1103.0.32.9 clang-1103.0.32.53)"
+options: "75ca2b4593a0d657ea7f4bfe0aafccc8"
+build_time: [1609774603, 760333000]
+inputs:
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Maria Card/Maria Card/InfoView.swift": [1609774489, 869061923]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Maria Card/Maria Card/AppDelegate.swift": [1609766582, 966930896]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Maria Card/Maria Card/SceneDelegate.swift": [1609766582, 972173703]
+  "/Users/mariabudkevich/Desktop/MASHA/Developer/Maria Card/Maria Card/ContentView.swift": [1609774603, 696187816]

@@ -5,6 +5,109 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>33137BD4-2B90-4728-A6C2-CFB8565E07EA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>33137BD4-2B90-4728-A6C2-CFB8565E07EA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Maria Card project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Maria Card</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Maria Card</string>
+			<key>timeStartedRecording</key>
+			<real>632055844.71940899</real>
+			<key>timeStoppedRecording</key>
+			<real>632055845.312356</real>
+			<key>title</key>
+			<string>Build Maria Card</string>
+			<key>uniqueIdentifier</key>
+			<string>33137BD4-2B90-4728-A6C2-CFB8565E07EA</string>
+		</dict>
+		<key>83E4611B-6513-4924-B293-6576C45E26C6</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>83E4611B-6513-4924-B293-6576C45E26C6.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Maria Card project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Maria Card</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Maria Card</string>
+			<key>timeStartedRecording</key>
+			<real>631467621.170609</real>
+			<key>timeStoppedRecording</key>
+			<real>631467625.05343795</real>
+			<key>title</key>
+			<string>Build Maria Card</string>
+			<key>uniqueIdentifier</key>
+			<string>83E4611B-6513-4924-B293-6576C45E26C6</string>
+		</dict>
+		<key>EB21306F-E8F6-48C4-B82D-173BC7B5744D</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>EB21306F-E8F6-48C4-B82D-173BC7B5744D.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Maria Card project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Maria Card</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Preview Maria Card</string>
+			<key>timeStartedRecording</key>
+			<real>632055819.51224506</real>
+			<key>timeStoppedRecording</key>
+			<real>632055823.90916502</real>
+			<key>title</key>
+			<string>Preview Maria Card</string>
+			<key>uniqueIdentifier</key>
+			<string>EB21306F-E8F6-48C4-B82D-173BC7B5744D</string>
+		</dict>
+	</dict>
 </dict>
 </plist>

@@ -5,7 +5,36 @@
 	<key>logFormatVersion</key>
 	<integer>10</integer>
 	<key>logs</key>
-	<dict/>
+	<dict>
+		<key>9C299625-D4C4-4D02-8307-6FC92E2407EA</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>9C299625-D4C4-4D02-8307-6FC92E2407EA.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>S</string>
+			</dict>
+			<key>signature</key>
+			<string>Maria_Card-bovdjneifjgwfmehasnudsxgybum</string>
+			<key>timeStartedRecording</key>
+			<real>632055844.79287398</real>
+			<key>timeStoppedRecording</key>
+			<real>632055845.302194</real>
+			<key>title</key>
+			<string>Build target Maria Card</string>
+			<key>uniqueIdentifier</key>
+			<string>9C299625-D4C4-4D02-8307-6FC92E2407EA</string>
+		</dict>
+	</dict>
 	<key>preserveOldLogs</key>
 	<true/>
 </dict>
